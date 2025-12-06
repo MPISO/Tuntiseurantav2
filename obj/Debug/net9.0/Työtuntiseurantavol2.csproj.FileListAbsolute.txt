@@ -1,0 +1,14 @@
+C:\Users\Miska\Desktop\Työtuntiseurantavol2\bin\Debug\net9.0\Työtuntiseurantavol2.exe
+C:\Users\Miska\Desktop\Työtuntiseurantavol2\bin\Debug\net9.0\Työtuntiseurantavol2.deps.json
+C:\Users\Miska\Desktop\Työtuntiseurantavol2\bin\Debug\net9.0\Työtuntiseurantavol2.runtimeconfig.json
+C:\Users\Miska\Desktop\Työtuntiseurantavol2\bin\Debug\net9.0\Työtuntiseurantavol2.dll
+C:\Users\Miska\Desktop\Työtuntiseurantavol2\bin\Debug\net9.0\Työtuntiseurantavol2.pdb
+C:\Users\Miska\Desktop\Työtuntiseurantavol2\obj\Debug\net9.0\Työtuntiseurantavol2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miska\Desktop\Työtuntiseurantavol2\obj\Debug\net9.0\Työtuntiseurantavol2.AssemblyInfoInputs.cache
+C:\Users\Miska\Desktop\Työtuntiseurantavol2\obj\Debug\net9.0\Työtuntiseurantavol2.AssemblyInfo.cs
+C:\Users\Miska\Desktop\Työtuntiseurantavol2\obj\Debug\net9.0\Työtuntiseurantavol2.csproj.CoreCompileInputs.cache
+C:\Users\Miska\Desktop\Työtuntiseurantavol2\obj\Debug\net9.0\Työtuntiseurantavol2.dll
+C:\Users\Miska\Desktop\Työtuntiseurantavol2\obj\Debug\net9.0\refint\Työtuntiseurantavol2.dll
+C:\Users\Miska\Desktop\Työtuntiseurantavol2\obj\Debug\net9.0\Työtuntiseurantavol2.pdb
+C:\Users\Miska\Desktop\Työtuntiseurantavol2\obj\Debug\net9.0\Työtuntiseurantavol2.genruntimeconfig.cache
+C:\Users\Miska\Desktop\Työtuntiseurantavol2\obj\Debug\net9.0\ref\Työtuntiseurantavol2.dll
